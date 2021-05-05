@@ -1,0 +1,24 @@
+Daily market data from 01-01-2021 to 04-30-2021 (inclusive) on Investing.com
+* https://www.investing.com/crypto/dogecoin/historical-data
+* https://www.investing.com/crypto/vechain/historical-data 
+* https://www.investing.com/crypto/cardano/historical-data 
+* https://www.investing.com/crypto/hedera-hashgraph/historical-data 
+* https://www.investing.com/crypto/litecoin/historical-data 
+* https://www.investing.com/crypto/stellar/historical-data 
+* https://www.investing.com/crypto/eos/historical-data   
+* https://www.investing.com/crypto/tron/historical-data 
+* https://www.investing.com/crypto/xrp/historical-data 
+* https://www.investing.com/crypto/tether/historical-data 
+* https://www.investing.com/crypto/polkadot-new/historical-data
+* https://www.investing.com/crypto/solana/historical-data
+* https://www.investing.com/crypto/terra-luna/historical-data 
+* https://www.investing.com/crypto/avalanche/historical-data
+* https://www.investing.com/crypto/theta/historical-data
+* https://www.investing.com/crypto/pancakeswap/historical-data
+* https://www.investing.com/crypto/iota/historical-data
+* https://www.investing.com/crypto/uniswap/historical-data
+* https://www.investing.com/crypto/chainlink/historical-data
+* https://www.investing.com/crypto/monero/historical-data
+* https://www.investing.com/crypto/aave/historical-data
+* https://www.investing.com/crypto/maker/historical-data
+* https://www.investing.com/crypto/dash/historical-data 
