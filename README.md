@@ -34,19 +34,18 @@ determine whether or not the cryptocurrencies’ daily price momentum can be pre
 * **cryptocurrency_data**: CSV files containing daily market data from 01-01-2021 to 04-30-2021 (inclusive) from Investing.com for all of the 21 cryptocurrencies
 * **twitter_clean**: CSV files containing cleaned daily Twitter activity from 01-01-2021 to 04-30-2021 (inclusive) for all of the 21 cryptocurrencies
 * **twitter_unclean**: Fileset containing uncleaned Twitter data. twitter_unclean has folders for each of the 21 cryptocurrencies. Each cryptocurrency folder contains a "tweets_2021" folder, which contains 4 folders (01, 02, 03, 04) for January 2021, February 2021, March 2021, and April 2021. Each of the month folders contains compressed csv files that have uncleaned Twitter data for each day of the month
+* **combined_final**: CSV file with the cryptocurrency and clean Twitter data combined
+* **preprocessing.ipynb**: Python notebook that combines the cryptocurrency and cleaned Twitter data into a single DataFrame (combined_final)
 
 ## Data
-* **combined_crypto**: Cryptocurrency market data from 01-01-21 to 04-30-21 (inclusive) for all of the 21 cryptocurrencies
+* **combined_final**
   * date
   * symbol
   * momentum
-
-* **combined_twitter**: Twitter data from 01-01-21 to 04-30-21 (inclusive) for all of the 21 cryptocurrencies
-  * date
   * num_tweets
   * replies_sum
   * retweets_sum
-  * likes_sum
+  * likes_sum 
   * subjectivity_sum
   * polarity_sum
   * replies_avg
@@ -55,5 +54,3 @@ determine whether or not the cryptocurrencies’ daily price momentum can be pre
   * subjectivity_avg
   * polarity_avg
   * tone_most_common
-
-
