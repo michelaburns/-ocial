@@ -11,10 +11,8 @@ Daily market data from 01-01-2021 to 04-30-2021 (inclusive) on Investing.com
 * https://www.investing.com/crypto/tether/historical-data 
 * https://www.investing.com/crypto/polkadot-new/historical-data
 * https://www.investing.com/crypto/solana/historical-data
-* https://www.investing.com/crypto/terra-luna/historical-data 
 * https://www.investing.com/crypto/avalanche/historical-data
 * https://www.investing.com/crypto/theta/historical-data
-* https://www.investing.com/crypto/pancakeswap/historical-data
 * https://www.investing.com/crypto/iota/historical-data
 * https://www.investing.com/crypto/uniswap/historical-data
 * https://www.investing.com/crypto/chainlink/historical-data
