@@ -31,5 +31,24 @@ determine whether or not the cryptocurrencies’ daily price momentum can be pre
   * XRP ($XRP)
 
 ## Data
-- combined_crypto: Cryptocurrency market data from 01-01-21 to 04-30-21 (inclusive) for all of the 21 cryptocurrencies
+* **combined_crypto**: Cryptocurrency market data from 01-01-21 to 04-30-21 (inclusive) for all of the 21 cryptocurrencies
+  * date
+  * symbol
+  * momentum
+
+* **combined_twitter**: Twitter data from 01-01-21 to 04-30-21 (inclusive) for all of the 21 cryptocurrencies
+  * date
+  * num_tweets
+  * replies_sum
+  * retweets_sum
+  * likes_sum
+  * subjectivity_sum
+  * polarity_sum
+  * replies_avg
+  * retweets_avg
+  * likes_avg
+  * subjectivity_avg
+  * polarity_avg
+  * tone_most_common
+
 
