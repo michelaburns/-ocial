@@ -31,8 +31,8 @@ determine whether or not the cryptocurrencies’ daily price momentum can be pre
   * XRP ($XRP)
 
 ## Files
-* cryptocurrency_data: CSV files containing daily market data from 01-01-2021 to 04-30-2021 (inclusive) from Investing.com for all of the 21 cryptocurrencies
-* twitter_clean: CSV files containing cleaned daily Twitter activity from 01-01-2021 to 04-30-2021 (inclusive) for all of the 21 cryptocurrencies
+* **cryptocurrency_data**: CSV files containing daily market data from 01-01-2021 to 04-30-2021 (inclusive) from Investing.com for all of the 21 cryptocurrencies
+* **twitter_clean**: CSV files containing cleaned daily Twitter activity from 01-01-2021 to 04-30-2021 (inclusive) for all of the 21 cryptocurrencies
 * combine_data:
 
 ## Data
