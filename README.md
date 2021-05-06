@@ -5,7 +5,7 @@
 Both old and new altcoins (cryptocurrencies other than BTC) are garnering more and more support as individuals catch the cryptocurrency craze. 
 Social media platforms are ablaze with posts speculating what the next best coin is and how you need to invest now to make it big!
 But how much of this is talk is just hype? Are any of these cryptocurrencies actually worth investing in? 
-Within my project, I analyzed 23 cryptocurrencies' Twitter activity and market performance from the start of 2021 to the end of April 2021 to 
+Within my project, I analyzed 21 cryptocurrencies' Twitter activity and market performance from the start of 2021 to the end of April 2021 to 
 determine whether or not the cryptocurrencies’ daily price momentum can be predicted via Twitter activity.
 * Cryptocurrencies
   * Aave ($AAVE)
@@ -20,11 +20,9 @@ determine whether or not the cryptocurrencies’ daily price momentum can be pre
   * Litecoin ($LTC)
   * Maker ($MKR)
   * Monero ($XMR)
-  * PancakeSwap ($CAKE)
   * Polkadot ($DOT)
   * Solana ($SOL)
   * Stellar ($XLM)
-  * Terra ($LUNA)
   * Tether ($USDT)
   * Theta ($THETA)
   * Tron ($TRX)
