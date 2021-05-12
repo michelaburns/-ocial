@@ -31,10 +31,19 @@ determine whether or not the cryptocurrencies’ daily price momentum can be pre
   * XRP ($XRP)
 
 ## Files
-* **combined_final**: CSV file with the cryptocurrency and clean Twitter data combined
-* **cryptocurrency_data**: CSV files containing daily market data from 01-01-2021 to 04-30-2021 (inclusive) from Investing.com for all of the 21 cryptocurrencies
-* **twitter_clean**: CSV files containing cleaned daily Twitter activity from 01-01-2021 to 04-30-2021 (inclusive) for all of the 21 cryptocurrencies
-* **twitter_unclean**: Fileset containing uncleaned Twitter data. twitter_unclean has folders for each of the 21 cryptocurrencies. Each cryptocurrency folder contains a "tweets_2021" folder, which contains 4 folders (01, 02, 03, 04) for January 2021, February 2021, March 2021, and April 2021. Each of the month folders contains compressed csv files that have uncleaned Twitter data for each day of the month
+* **cryptocurrency_data**: Folder containing CSV files for the daily market data from 01-01-2021 to 04-30-2021 (inclusive) from Investing.com for all of the 21 cryptocurrencies
+* **twitter_clean**: Folder containing CSV files for the cleaned daily Twitter activity from 01-01-2021 to 04-30-2021 (inclusive) for all of the 21 cryptocurrencies
+* **twitter_unclean**: Folder containing uncleaned Twitter data. twitter_unclean has folders for each of the 21 cryptocurrencies. Each cryptocurrency folder contains a "tweets_2021" folder, which contains 4 folders (01, 02, 03, 04) for January 2021, February 2021, March 2021, and April 2021. Each of the month folders contains compressed csv files that have uncleaned Twitter data for each day of the month
+* **combined_final.csv**: CSV file with the cryptocurrency and clean Twitter data combined
+* **final_code.ipynb**: Ipython notebook that includes...
+   * Cleaning and combining the Investing.com cryptocurrency market data (cryptocurrency_data) and clean Twitter data (twitter_clean) into a single Pandas DataFrame
+   * Running various machine learning models on the final dataset to predict the cryptocurrencies’ daily price momentum
+     * Linear Trend Model
+     * Random Walk Model
+     * Simple Auto-Regressive Model
+     * Higher-Order Auto-Regressive Model
+* **twitter.py**: Python script that utilizes multiprocessing and threading to efficiently web scrape tweets containing a cryptocurrency’s cashtag
+* **twitter_cleaning.ipynb**: Ipython notebook that cleans, analyzes, and aggregates the Twitter data for each cryptocurrency
 
 
 ## Data
